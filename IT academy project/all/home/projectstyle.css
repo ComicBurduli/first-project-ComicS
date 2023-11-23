@@ -1,0 +1,101 @@
+nav {
+  width: 80%;
+  background-color: rgba(0, 0, 0, 0.634);
+  padding: 2.5rem;
+  position: absolute;
+  left: 200px;
+  top:0px ;
+  
+}
+.li12:active {
+  background-color: #ffd500;
+  border-radius: 5px;
+  padding: 2px;
+  
+}
+
+.ul1 {
+  justify-content:space-around ;
+  display: flex;
+  flex-direction: row;
+  font-size: 1.3em;
+  width: 30%;
+  list-style: none;
+  position: relative;
+  left: 1250px;
+  
+}
+
+.li12 {
+  display: flex;
+  flex-direction: row;
+  font-size:1em ;
+}
+
+
+.ul1 a {
+color: inherit;
+text-decoration: inherit;
+color: white;
+}
+img {
+position: absolute;
+top: 1px;
+height: 144px;
+left: 200px;
+}
+body {
+  background-image: url(./img/background\ image.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: cover;
+height: 100%;
+
+}
+
+
+.home-text {
+    position: relative;
+    top: 350px;
+    
+    
+}
+h1 {
+  font-size: 3em;
+}
+h3 {
+  font-size: 0.5em;
+}
+ .li12:active {
+    background-color: #ffd500;
+    border-radius: 5px;
+    padding: 2px;
+    
+ }
+ button {
+    padding:1rem ;
+    width: 140px;
+    height: 2.5vw;
+    text-align: center;
+    background-color: rgb(255, 213, 0);
+    font-size: 1em;
+    border: none;
+    transition: .5s;
+    cursor: pointer;
+    text-align: center;
+ }
+ button:hover {
+    background-color: rgba(0, 0, 0, 0.344);
+    border: none;
+    color: #ffd500;
+ }
+
+
+
+
+ /*--Projectservicescss---*/
+
+.container {
+  width: 1080px;
+  margin: auto;  
+}

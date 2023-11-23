@@ -1,0 +1,310 @@
+
+
+nav {
+    width: 80%;
+    background-color: rgba(0, 0, 0, 0.634);
+    padding: 40px;
+    position: absolute;
+    left: 200px;
+    top:0px ;
+    
+}
+
+.li12:active {
+    background-color: #ffd500;
+    border-radius: 5px;
+    padding: 2px;
+    
+ }
+
+
+.ul1 {
+    justify-content:space-evenly ;
+    display: flex;
+    font-size: 20px;
+    width: 500px;
+    list-style: none;
+    position: relative;
+    left: 1250px;
+    
+}
+
+
+
+
+
+
+.ul1 a {
+color: inherit;
+text-decoration: inherit;
+color: white;
+}
+
+img {
+  position: absolute;
+  top: 1px;
+  height: 143px;
+ 
+  left: 200px;
+  
+}
+
+body {
+    background-image: url(./img/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+
+  height: 100%;
+  
+  
+}
+
+
+/*---------------------------navbar end ------------------------------------*/
+
+
+.contact-main-h1 {
+    position: absolute;
+    top: 300px;
+    font-size: 70px;
+    color: white;
+    left: 950px;
+}
+
+
+
+
+.contact-form {
+    width: 84%;
+    height: 790px;
+    background-color: rgba(0, 0, 0, 0.634);
+    position: absolute;
+    top: 450px;
+    left: 200px;
+}
+
+
+
+.contact-form-h1 {
+    color: #ffd500;
+    font-size: 50px;
+    position: absolute;
+    left:650px ;
+    padding: 40px;
+}
+
+
+.texts {
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width: 50%;
+    text-align: center;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+
+}
+
+
+h2 {
+    color: #ffd500;
+}
+
+p {
+    color: white;
+}
+
+.line-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ffd500;
+    position: absolute;
+    top: 400px;
+    left:730px;
+}
+
+.line-1-labels-1 {
+    position: relative;
+    bottom:30px ;
+    left: 80px;
+    
+}
+
+.line-1-labels-2 {
+    position: relative;
+    bottom:30px ;
+    left:300px ;
+    text-align: center;
+    
+}
+
+
+.input-2 {
+    position: absolute;
+    left: 300px;
+    width: 200px;
+    height: 25px;
+    border: 2px solid white;
+    background-color: #ffd5006c;
+    border-radius: 12%;
+}
+
+.input-2:hover {
+border-color:#ffd500 ;
+color: white;
+}
+
+
+.input-1 {
+
+    position: absolute;
+    left: 10px;
+    width: 200px;
+    height: 25px;
+    border: 2px solid white;
+    background-color: #ffd5006c;
+    border-radius: 12%;
+
+
+}
+
+
+.input-1:hover {
+    border-color:#ffd500 ;
+    color: black;
+    }
+
+
+
+/*---------------------------- line2 --------------------------------*/
+
+
+
+.line-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #ffd500;
+    position: absolute;
+    top: 500px;
+    left:730px;
+}
+
+
+.line-2-labels-3 {
+    position: relative;
+    bottom:30px ;
+    left: 90px;
+    
+}
+
+
+.line-2-labels-4 {
+    position: relative;
+    bottom:30px ;
+    left:330px ;
+    text-align: center;
+    
+}
+
+.input-3 {
+
+    position: absolute;
+    left: 10px;
+    width: 200px;
+    height: 25px;
+    border: 2px solid white;
+    background-color: #ffd5006c;
+    border-radius: 12%;
+
+
+}
+.input-3:hover {
+    border-color:#ffd500 ;
+    color: white;
+    }
+
+
+
+    .input-4 {
+        position: absolute;
+        left: 300px;
+        width: 200px;
+        height: 25px;
+        border: 2px solid white;
+        background-color: #ffd5006c;
+        border-radius: 12%;
+        
+    }
+
+
+    .input-4:hover {
+        border-color:#ffd500 ;
+        color: white;
+        }
+        
+
+
+        /*---------------------------- submit --------------------------------*/
+
+
+
+        .leaveyourmessage123 {
+            width: 25%;
+            height: 50px;
+            background-color: rgba(0, 0, 0, 0.451);
+            border: 2px solid white;
+            color: white;
+            position: absolute;
+            left: 745px;
+            top: 650px;
+        }
+
+
+        .leaveyourmessage123:hover {
+           border-color: #ffd500;
+           color: #ffd500;
+        }
+
+
+        .labelfor-leaveyourmessage {
+            color: #ffd500;
+            text-align: center;
+            position: absolute;
+            left: 920px;
+            top: 600px;
+        }
+
+
+        .submit {
+            width: 25.40%; 
+            height: 35px;
+            background-color: #ffd500;
+            position: absolute;
+            left: 745px;
+            top: 704px;
+            border: 2px solid #ffd500;
+            cursor: pointer;
+        }
+
+
+        .submit:hover {
+            background-color: rgba(0, 0, 0, 0.578);
+            transition: 0.2s;
+            border-color: #ffd500;
+            color: white;
+        }
+
+
+
+
+        .map {
+            width: 84%;
+            position: absolute;
+            top: 1270px;
+            left: 200px;
+        }

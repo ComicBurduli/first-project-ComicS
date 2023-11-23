@@ -1,0 +1,403 @@
+nav {
+   width: 80%;
+   background-color: rgba(0, 0, 0, 0.634);
+   padding: 2.5rem;
+   position: absolute;
+   left: 200px;
+   top:0px ;
+   
+ }
+ 
+ .li12:active {
+   background-color: #ffd500;
+   border-radius: 5px;
+   padding: 2px;
+   
+ }
+ 
+ 
+ .ul1 {
+   justify-content:space-around ;
+   display: flex;
+   flex-direction: row;
+   font-size: 1.3em;
+   width: 30%;
+   list-style: none;
+   position: relative;
+   left: 1250px;
+   
+ }
+ 
+ 
+ .li12 {
+   display: flex;
+   flex-direction: row;
+   font-size:1em ;
+ }
+ 
+ 
+ 
+ .ul1 a {
+ color: inherit;
+ text-decoration: inherit;
+ color: white;
+ }
+ 
+ img {
+ position: absolute;
+ top: 1px;
+ height: 144px;
+ 
+ left: 200px;
+ 
+ }
+ 
+ body {
+   background-image: url(./img/background\ image.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+ background-size: cover;
+ 
+ height: 100%;
+ 
+ 
+ }
+ 
+
+
+
+button {
+    padding:20px ;
+    width: 140px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    font-size: 15px;
+    border: none;
+    transition: .5s;
+    cursor: pointer;
+    text-align: center;
+    color: white;
+ }
+
+
+
+/*-- card 1 --*/
+ .h1 {
+color: white;
+position: absolute;
+
+top: 300px;
+font-size: 10em;
+left:900px ;
+ }
+
+
+ .container1-cards {
+    position: absolute;
+     left: 300px;
+    top: 550px;
+ }
+
+
+ .h2-1 {
+    position: relative;
+    top: 190px;
+    left: 315px;
+    color: #ffd500;
+ }
+
+ .p-1 {
+color: white;
+position: relative;
+text-align: center;
+top: 180px;
+left:270px
+ }
+
+
+ .cards1 {
+    width: 320px;
+    height: 200px;
+    border-radius: 10px;
+ }
+
+
+ /*-- card 1 --*/
+
+
+
+
+ /*-- card 2 --*/
+
+ .h1 {
+    color: white;
+    position: absolute;
+    
+    top: 300px;
+    font-size: 70px;
+    left:900px ;
+     }
+    
+    
+     .container2-cards {
+        position: absolute;
+         
+        top: 550px;
+     left: 800px;
+        
+     }
+    
+    
+     .h2-2 {
+        position: relative;
+        top: 190px;
+        left: 279px;
+        color: #ffd500;
+     }
+    
+     .p-2 {
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 180px;
+    left:250px
+     }
+    
+    
+     .cards2 {
+        width: 320px;
+        height: 200px;
+        border-radius: 10px;
+     }
+    
+
+     /*-- card 2 --*/
+
+
+     .h1 {
+        color: white;
+        position: absolute;
+        
+        top: 300px;
+        font-size: 70px;
+        left:900px ;
+         }
+        
+        
+         .container3-cards {
+            position: absolute;
+             
+            top: 550px;
+         left: 1300px;
+            
+         }
+        
+        
+         .h2-3 {
+            position: relative;
+            top: 190px;
+            left: 315px;
+            color: #ffd500;
+         }
+        
+         .p-3 {
+        color: white;
+        position: relative;
+        text-align: center;
+        top: 180px;
+        left:265px
+         }
+        
+        
+         .cards3 {
+            width: 320px;
+            height: 200px;
+            border-radius: 10px;
+         }
+
+
+         .container1 {
+            position: relative;
+            
+            
+         }
+
+
+
+         /*----cards 1 end ---*/
+
+
+
+         .h1 {
+            color: white;
+            position: absolute;
+            
+            top: 300px;
+            font-size: 70px;
+            left:900px ;
+             }
+            
+            
+             .container2-1-cards {
+                position: relative;
+                 
+                top: 400px;
+             right:490px ;
+                
+             }
+            
+            
+             .h2-2-1 {
+                position: relative;
+                top: 210px;
+                left: 310px;
+                color: #ffd500;
+             }
+            
+             .p-2-1 {
+            color: white;
+            position: relative;
+            text-align: center;
+            top: 200px;
+            left:240px
+             }
+            
+            
+             .cards2-1 {
+                width: 320px;
+                height: 200px;
+                border-radius: 10px;
+             }
+    
+
+
+
+
+
+
+/*----------------------------------------------------------*/
+
+
+
+
+
+             .h1 {
+                color: white;
+                position: absolute;
+                
+                top: 300px;
+                font-size: 70px;
+                left:900px ;
+                 }
+                
+                
+                 .container2-2-cards {
+                    position: relative;
+                     
+                    top:295px ;
+                 left:10px ;
+                    
+                 }
+                
+                
+                 .h2-2-2 {
+                    position: relative;
+                    top: 210px;
+                    left: 300px;
+                    color: #ffd500;
+                 }
+                
+                 .p-2-2 {
+                color: white;
+                position: relative;
+                text-align: center;
+                top: 200px;
+                left:250px
+                 }
+                
+                
+                 .cards2-2 {
+                    width: 320px;
+                    height: 200px;
+                    border-radius: 10px;
+                 }
+    
+          
+    
+    /*----------------------------------------------------------*/
+
+
+
+    .h1 {
+        color: white;
+        position: absolute;
+        
+        top: 300px;
+        font-size: 70px;
+        left:900px ;
+         }
+        
+        
+         .container2-3-cards {
+            position: relative;
+             
+            top:167px ;
+         left:510px ;
+            
+         }
+        
+        
+         .h2-2-3 {
+            position: relative;
+            top: 210px;
+            left: 325px;
+            color: #ffd500;
+         }
+        
+         .p-2-3 {
+        color: white;
+        position: relative;
+        text-align: center;
+        top: 200px;
+        left:250px
+         }
+        
+        
+         .cards2-3 {
+            width: 320px;
+            height: 200px;
+            border-radius: 10px;
+         }
+
+
+
+/*----------------------------------------------------------*/
+
+
+.footer {
+    position: absolute;
+    width: 84%;
+    top:1300px;
+    background-color: #ffd500;
+    left: 190px;
+    font-size: 30px;
+    padding: 40px;
+}
+
+
+.button {
+    display: inline;
+    align-items: center;
+    padding: 1rem;
+} 
+
+
+
+
+
+
+/*------------------------------flex------------------------------*/
+
+
+
